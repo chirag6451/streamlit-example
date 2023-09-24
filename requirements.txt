@@ -12,6 +12,5 @@ zipp~=3.17.0
 typing
 streamlit
 streamlit_chat
-os
 typing
 pinecone
