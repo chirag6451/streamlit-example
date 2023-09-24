@@ -8,7 +8,7 @@ from langchain.document_loaders import BSHTMLLoader
 from langchain.document_loaders import DirectoryLoader
 from langchain.document_loaders import PyPDFDirectoryLoader
 
-#import pinecone
+import pinecone
 
 pinecone.init(
     api_key=os.environ["PINECONE_API_KEY"],
