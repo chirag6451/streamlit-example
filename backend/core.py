@@ -4,7 +4,7 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import ConversationalRetrievalChain
 from langchain.vectorstores import Pinecone
-import pinecone
+#import pinecone
 
 
 INDEX_NAME= "gst-demo-index"
