@@ -13,4 +13,3 @@ typing
 streamlit
 streamlit_chat
 typing
-pinecone
