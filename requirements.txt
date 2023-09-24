@@ -14,3 +14,4 @@ streamlit
 streamlit_chat
 typing
 pinecone-client
+openai
